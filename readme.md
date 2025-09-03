@@ -1,5 +1,6 @@
-git clone https://github.com/seu-usuario/analise-filmes-pproductions.git
-cd analise-filmes-pproductions
+Aqui algumas descrição do nosso proojeto
+
+https://github.com/alexandrekapete/desafio_indicius_ProjetoFinal.git
 
 python -m venv venv
 source venv/bin/activate  # 
